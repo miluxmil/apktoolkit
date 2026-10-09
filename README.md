@@ -144,7 +144,7 @@ La instalación de las funciones no instala automáticamente todas las dependenc
 
 APK Toolkit se distribuye bajo la licencia GNU General Public License v3.0 o posterior (GPL-3.0-or-later).
 
-Copyright (C) 2026 Milux
+Copyright (C) 2026 miluxmil
 
 Puedes usar, estudiar, modificar y redistribuir este programa conforme a los términos de la licencia. Las versiones redistribuidas deben respetar las condiciones de la GPL, incluidos los avisos de copyright y la disponibilidad del código fuente correspondiente cuando así lo exija la licencia.
 
