@@ -1,0 +1,20 @@
+*.apk
+*.apks
+*.aab
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+*.pfx
+local.properties
+.env
+*.log
+tmp/
+build/
+# Python
+__pycache__/
+*.py[cod]
+
+# Git
+.git/
